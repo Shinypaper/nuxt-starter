@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: https://github.com/Shinypaper/nuxt-starter # Path to your Github repository
+  branch: master # Branch to update
+  site_domain: http://translator-patterns-56024.netlify.com/ # Your Netlify site address if different from host
